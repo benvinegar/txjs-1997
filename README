@@ -1,0 +1,31 @@
+TXJS 1997
+=========
+
+This is the source code for the 1997 Texas JavaScript conference home page:
+
+http://1997.texasjavascript.com
+
+
+Installation
+------------
+
+To transfer these files to your webserver, you will need an FTP client. The TXJS team recommends CuteFTP.
+
+
+Note about frames
+-----------------
+
+Because TXJS pushes the boundaries of web technologies, our website uses an experimental HTML feature called frames. Despite not being an official part of HTML 3.2, they are supported in Netscape Navigator 2.0 and Internet Explorer 3.0.
+
+More information:
+
+ 1. http://www.dtp-aus.com/frm_sets/frames.html
+ 2. http://www.w3.org/TR/REC-html32
+ 3. http://en.wikipedia.org/wiki/Netscape_Navigator_2
+ 4. http://en.wikipedia.org/wiki/Internet_Explorer_3
+
+
+Contact Information
+-------------------
+
+For inquiries, contact the webmaster: Ben Vinegar <bentlegen@compuserve.net>
